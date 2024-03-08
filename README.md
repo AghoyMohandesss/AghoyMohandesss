@@ -1,7 +1,7 @@
 - 👋 Hi, I’m AmirMohammad Baharloo (@AghoyMohandesss)
 - 👀 I’m interested in programming,Electronic
 - 🌱 I’m currently learning Digital System Design
-- I'm studing in Electrical Engineering
+- I'm studying in Electrical Engineering
 - F_IUT
 
 <!---
