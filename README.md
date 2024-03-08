@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming,Electronic
 - 🌱 I’m currently learning Digital System Design
 - I'm studying in Electrical Engineering
-- F_IUT
+- F... IUT
 
 <!---
 AghoyMohandesss/AghoyMohandesss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
