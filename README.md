@@ -1,7 +1,7 @@
 - 👋 Hi, I’m AmirMohammad Baharloo (@AghoyMohandesss)
-- 👀 I’m interested in programming,Electronic
-- 🌱 I’m currently learning Digital System Design
-- I'm studying in Electrical Engineering
+- 👀 I’m interested in Programming,Electronic,Digital System Design,FPGA,TeleCommunication
+- Programming Languages : Python , C , C++ , Verilog , MATLAB
+- I'm studying in Electrical & Electronic Engineering at Isfahan University of Technology
 - F... IUT
 
 <!---
