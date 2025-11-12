@@ -1,6 +1,6 @@
 - 👋 Hi, I’m AmirMohammad Baharloo (@AghoyMohandesss)
 - 👀 I’m interested in Programming,Electronic,Digital System Design,FPGA,TeleCommunication
-- Programming Languages : Python , C , C++ , Verilog , MATLAB
+- Programming Languages : Python , C , C++ , Verilog, Java, MATLAB
 - I'm studying in Electrical & Electronic Engineering at Isfahan University of Technology
 - F... IUT
 
